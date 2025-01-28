@@ -21,3 +21,6 @@
 
 ## Stats 📈
 [![Z3nitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3nitt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3nitt&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me at my email 📩
+juanluserranoleal@gmail.com
