@@ -19,8 +19,10 @@
 ## Game Engines 🎮
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
 
+## Contact me at my email 📩
+juanluserranoleal@gmail.com
+
 ## Stats 📈
 [![Z3nitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3nitt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3nitt&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact me at my email 📩
-juanluserranoleal@gmail.com
+
